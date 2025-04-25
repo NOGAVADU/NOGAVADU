@@ -12,7 +12,7 @@ I am a young software developer with burning eyes and big ambitions. I sincerely
 	- NodeJs
 - Devops ⚙️
 
-## Pet project plans 🛠:
+### Pet project plans 🛠:
 - Anxiety Generator 🫠
 	> Just a timer showing the time until #{something} happens, in a very unpleasant format. In a very truthful format
 	> My plan is to make people appreciate their lives more.
